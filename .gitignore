@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+
+# Truffle artifacts
+build/contracts/
+
+# Local development
+truffle-config.js
+
+# Other
+.DS_Store
